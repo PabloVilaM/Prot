@@ -1,0 +1,14 @@
+[Tu respuesta: a
+Fue la opción: incorrecta
+La pregunta fue: Se puede hacer casteo de int a long? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes. 
+Con el código: 6]
+[Tu respuesta: c
+Fue la opción: correcta
+La pregunta fue: Se puede hacer casteo de short a long? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes. 
+Con el código: 8]
